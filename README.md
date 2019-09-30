@@ -1,4 +1,4 @@
-# medium_flutter_app
+# flutter_scrum_cards
 
 A new Flutter application.
 

@@ -1,4 +1,4 @@
-package com.myracle.medium_flutter_app;
+package com.myracle.flutter_scrum_cards;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

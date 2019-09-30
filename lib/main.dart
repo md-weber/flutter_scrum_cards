@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:medium_flutter_app/pages/myHomePage.dart';
+import 'package:flutter_scrum_cards/pages/myHomePage.dart';
 
 void main() => runApp(MyApp());
 
